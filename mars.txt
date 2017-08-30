@@ -3,3 +3,4 @@ A new line.
 A third line for another commit test.
 Line for diff check.
 Another new line :)
+Line edited in GitHub
