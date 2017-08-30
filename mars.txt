@@ -1,3 +1,4 @@
 Cold and dry, nice orange colour.
 A new line.
 A third line for another commit test.
+Line for diff check.
